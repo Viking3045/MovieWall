@@ -2,7 +2,7 @@
   "name": "MovieWall",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KHARKIVSKA-KURKUMA.github.io/MovieWall",
+  "homepage": "https://Viking3045.github.io/MovievWall",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /MovieWall/"
